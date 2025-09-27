@@ -7,4 +7,4 @@ Here, in Infosec Learnathon, we will cover the fundamentals and tools you need t
 You can check out resources for other domains under Learnathon '25 category on PClub discord server.
 
 ### Day-wise Resources
-- Week 1: [link](day-1/) 
+- Day 1: [link](day-1/) 
