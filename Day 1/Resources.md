@@ -1,6 +1,6 @@
 # Day 1 - Introduction
 Hello guys! Welcome to the world of hacking and cyber security. 
-First thing first, lets talk about what motivates you towards this domain! Pretty black green movie screens, commands going on...and boooom "HACKED"!
+First things first, lets talk about what motivates you towards this domain! Pretty black-green movie screens, commands going on...and boooom-"HACKED"!
 
 ### So, what is Infosec?
 Information security (Infosec) is about protecting information and systems from unauthorized access or misuse. It’s about learning how systems work so you can defend them — and sometimes break them in **legal** environments (to learn xD).
@@ -34,11 +34,11 @@ See [this](https://youtu.be/sAMnXte56yY?si=ae0Z3wRXYb-lqORd
 
 ### Core Linux Commands
 
-Linux has a whole lot of commands to help you to do stuffs through the command prompt (CMD). Some have been listed... you need not remember these, you will be acquinted with these as you start to use linux.
+Linux has a whole lot of commands to help you to do stuffs through the command prompt (CMD). Some have been listed... you need not remember these, you will be acquainted with these as you start to use linux.
 
 The linux command [cheat sheet](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fisnefnt32wn21.jpg%3Fauto%3Dwebp%26s%3Db6c48a27ab33a3d428b554d278eba617e35bf3a2).
 
-Some are listed below, you can check details about thep using the help menu or the man pages of the commans, format:
+Some are listed below, you can check details about them using the help menu or the man pages of the commands. Format:
 <command name> -h or man <command name>.
 
 For now just have a look.
@@ -97,7 +97,7 @@ Bandit is a fun way to learn Linux filesystems and commands. You would like to h
 
 https://overthewire.org/wargames/bandit/
 
-It will give you a structered way to use various commands of Linux. See the details given in each level and go on. 
+It will give you a structured way to use various commands of Linux. See the details given in each level and go on. 
 
 **Note** : As this is a reputed resource to learn about linux commands, there are already a lot of writeups present on internet. But you should, try your best to solve every level on your own without looking at others solutions.
 
