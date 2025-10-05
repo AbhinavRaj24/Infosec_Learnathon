@@ -9,3 +9,6 @@ You can check out resources for other domains under Learnathon '25 category on P
 ### Day-wise Resources
 - Day 1: [link](https://github.com/AbhinavRaj24/Infosec_Learnathon/tree/main/Day%201)
 - Day 2: [link](https://github.com/AbhinavRaj24/Infosec_Learnathon/tree/main/Day%202)
+- Day 3: [link](https://github.com/AbhinavRaj24/Infosec_Learnathon/tree/main/Day%203)
+- Day 4: [link](https://github.com/AbhinavRaj24/Infosec_Learnathon/tree/main/Day%204)
+- Day 5: [link](https://github.com/AbhinavRaj24/Infosec_Learnathon/tree/main/Day%205)
