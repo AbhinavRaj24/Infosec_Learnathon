@@ -12,3 +12,6 @@ You can check out resources for other domains under Learnathon '25 category on P
 - Day 3: [link](https://github.com/AbhinavRaj24/Infosec_Learnathon/tree/main/Day%203)
 - Day 4: [link](https://github.com/AbhinavRaj24/Infosec_Learnathon/tree/main/Day%204)
 - Day 5: [link](https://github.com/AbhinavRaj24/Infosec_Learnathon/tree/main/Day%205)
+
+
+For more in-bepth resources on Infosec, you all may follow the [PClub Infosec Roadmap](https://pclub.in/roadmap/2024/06/06/infosec-roadmap/)
